@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "fluent-icons": {
+      "type": "http",
+      "url": "https://fluenticons.co/mcp?via=plugin"
+    }
+  }
+}
